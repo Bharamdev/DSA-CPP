@@ -41,4 +41,20 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bharamdev/DSA-CPP/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Bharamdev/DSA-CPP/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Bharamdev/DSA-CPP/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Bharamdev/DSA-CPP/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Bharamdev/DSA-CPP/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
