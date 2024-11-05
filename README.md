@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Bharamdev/DSA-CPP/tree/master/0007-reverse-integer) |
 | [1013-fibonacci-number](https://github.com/Bharamdev/DSA-CPP/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
