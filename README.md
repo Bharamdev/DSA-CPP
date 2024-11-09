@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/Bharamdev/DSA-CPP/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Bharamdev/DSA-CPP/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Bharamdev/DSA-CPP/tree/master/0485-max-consecutive-ones) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Bharamdev/DSA-CPP/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0031-next-permutation](https://github.com/Bharamdev/DSA-CPP/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Bharamdev/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Bharamdev/DSA-CPP/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Bharamdev/DSA-CPP/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -62,4 +64,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Bharamdev/DSA-CPP/tree/master/1013-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Bharamdev/DSA-CPP/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
