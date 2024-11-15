@@ -18,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Bharamdev/DSA-CPP/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Bharamdev/DSA-CPP/tree/master/0169-majority-element) |
+| [0889-buddy-strings](https://github.com/Bharamdev/DSA-CPP/tree/master/0889-buddy-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Bharamdev/DSA-CPP/tree/master/0125-valid-palindrome) |
+| [0889-buddy-strings](https://github.com/Bharamdev/DSA-CPP/tree/master/0889-buddy-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
