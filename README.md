@@ -32,6 +32,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Bharamdev/DSA-CPP/tree/master/0125-valid-palindrome) |
 | [0889-buddy-strings](https://github.com/Bharamdev/DSA-CPP/tree/master/0889-buddy-strings) |
+| [1078-remove-outermost-parentheses](https://github.com/Bharamdev/DSA-CPP/tree/master/1078-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bharamdev/DSA-CPP/tree/master/2271-rearrange-array-elements-by-sign) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Bharamdev/DSA-CPP/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
