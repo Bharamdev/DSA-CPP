@@ -62,6 +62,7 @@
 | [0202-happy-number](https://github.com/Bharamdev/DSA-CPP/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Bharamdev/DSA-CPP/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Bharamdev/DSA-CPP/tree/master/1013-fibonacci-number) |
+| [1448-maximum-69-number](https://github.com/Bharamdev/DSA-CPP/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Bharamdev/DSA-CPP/tree/master/1078-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/Bharamdev/DSA-CPP/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
