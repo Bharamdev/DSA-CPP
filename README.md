@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Bharamdev/DSA-CPP/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bharamdev/DSA-CPP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Bharamdev/DSA-CPP/tree/master/0031-next-permutation) |
+| [0054-spiral-matrix](https://github.com/Bharamdev/DSA-CPP/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bharamdev/DSA-CPP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Bharamdev/DSA-CPP/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Bharamdev/DSA-CPP/tree/master/0169-majority-element) |
@@ -81,6 +82,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Bharamdev/DSA-CPP/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Bharamdev/DSA-CPP/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
@@ -90,4 +92,8 @@
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Bharamdev/DSA-CPP/tree/master/1448-maximum-69-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Bharamdev/DSA-CPP/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
